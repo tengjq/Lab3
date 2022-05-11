@@ -45,7 +45,9 @@
 ~~~~
 
 -  snakefood-beginningofspring.dot
+
    .. code:: graphviz
+   
        strict digraph "dependencies" {
         graph [
             rankdir = "LR",
@@ -84,7 +86,9 @@
     }
 
 -  snakefood-chapter4.dot
+
    .. code:: graphviz
+   
         strict digraph "dependencies" {
             graph [
                 rankdir = "LR",
@@ -109,7 +113,9 @@
         }
 
 -  snakefood-colddew.dot
+
    .. code:: graphviz
+   
         strict digraph "dependencies" {
             graph [
                 rankdir = "LR",
