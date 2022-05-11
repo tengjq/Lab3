@@ -11,4 +11,4 @@ Contents
 .. toctree::
 
    
-   计算机网络作业
+   lab1
