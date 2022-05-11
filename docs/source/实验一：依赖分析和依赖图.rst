@@ -88,7 +88,7 @@
    .. figure:: snakefood-beginningofspring.png
       :alt: snakefood-beginningofspring
 
-      snakefood-beginningofspring依赖图
+      图1 snakefood-beginningofspring依赖图
 
 -  snakefood-chapter4.dot
 
@@ -120,7 +120,7 @@
    .. figure:: /snakefood-chapter4.png
       :alt: snakefood-chapter4
 
-      snakefood-chapter4依赖图
+      图2 snakefood-chapter4依赖图
 
 -  snakefood-colddew.dot
 
@@ -153,7 +153,7 @@
    .. figure:: snakefood-colddew.png
       :alt: snakefood-colddew
 
-      snakefood-colddew依赖图
+      图3 snakefood-colddew依赖图
 
 -  mermaid-beginningofspring.txt
 
@@ -306,7 +306,7 @@
    .. figure:: mermaid-beginningofspring.png
       :alt: mermaid-beginningofspring
 
-      mermaid-beginningofspring依赖图
+      图4 mermaid-beginningofspring依赖图
 
 -  mermaid-chapter4.txt
 
@@ -387,7 +387,7 @@
    .. figure:: mermaid-chapter4.png
       :alt: mermaid-chapter4
 
-      mermaid-chapter4依赖图
+      图5 mermaid-chapter4依赖图
 
 -  mermaid-colddew.txt
 
@@ -505,7 +505,7 @@
    .. figure:: mermaid-colddew.png
       :alt: mermaid-colddew
 
-      mermaid-colddew依赖图
+      图6 mermaid-colddew依赖图
 
 
 讨论分析
