@@ -85,7 +85,7 @@
         "wordfreqCMD.py" -> "pickle_idea.py"
     }
 
-   .. figure:: /snakefood-beginningofspring.png
+   .. figure:: snakefood-beginningofspring.png
       :alt: snakefood-beginningofspring
 
       snakefood-beginningofspring
@@ -150,7 +150,7 @@
             "wordfreqCMD.py" -> "pickle_idea.py"
         }
 
-   .. figure:: /snakefood-colddew.png
+   .. figure:: snakefood-colddew.png
       :alt: snakefood-colddew
 
       snakefood-colddew
