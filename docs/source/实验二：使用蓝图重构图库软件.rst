@@ -1,0 +1,82 @@
+实验二：使用蓝图重构PhotoString
+-------------------------------
+
+-  滕佳倩 201931990407
+-  吴支飞 201931990232
+-  温启涛 201931990228
+-  杨佳宁 201931990414
+-  王景瑶 201931990508
+
+实验目的
+--------
+
+-  阅读应用程序的源代码并运行，了解整个PhotoString的功能
+-  在分析源代码后，使用蓝图重构PhotoString
+-  对源代码做出评价
+
+介绍
+----
+
+本次实验是基于PhotoString的源代码，使用蓝图重构该项目，进行模块化处理
+
+材料和方法
+----------
+
+1. 团队分工
+
+   -  滕佳倩：使用蓝图实现upload和show功能
+   -  吴支飞：运行和分析源代码
+   -  温启涛：拍摄视频
+   -  杨佳宁：编写实验报告
+   -  王景瑶：使用蓝图实现search和json导出功能
+
+2. 开发语言及工具
+
+   -  Windows 10操作系统，Python语言开发环境
+   -  Flask：使用Python编写的轻量级Web应用框架，使用Flask框架搭建一个Web应用
+   -  BluePrint：模块化处理工具，使用BluePrint让应用实现模块化，帮助业务逻辑文件实现相对独立的开发管理环境
+
+结果
+----
+
+源代码：\ `链接 <https://cloud.zjnu.edu.cn/share/5995b9fcc27470e8e9176acf95>`__
+
+演示视频：\ `链接 <https://cloud.zjnu.edu.cn/share/65f14b03646a710ee8ee34594e>`__
+
+源代码评价
+----------
+
+1. 代码简洁，用较少的代码完成了相对完善的功能
+
+2. 基本功能完善，但在添加功能过程中发现了一些bug
+
+   -  数据库中存储地址有前置空格，导致读出的时候存在问题
+
+      .. figure:: /bug-1.png
+         :alt: bug-1
+
+         bug-1
+
+   -  使用相对路径，导致直接使用该路径会导致图片裂开，路径寻找错误
+
+      .. figure:: /bug-2-1.png
+         :alt: bug-2-1
+
+         bug-2-1
+
+      .. figure:: /bug-2-2.png
+         :alt: bug-2-2
+
+         bug-2-2
+
+参考文献
+--------
+
+[1]
+`flask项目结构（三）使用蓝图 <https://www.cnblogs.com/jackadam/p/8684148.html>`__
+
+[2]
+`BluePrint使用文档 <http://exploreflask.com/en/latest/blueprints.html>`__
+
+[3] `A Brief Guide How to Write a Computer Science Lab
+Report <https://thehackpost.com/a-brief-guide-how-to-write-a-computer-science-lab-report.html>`__
