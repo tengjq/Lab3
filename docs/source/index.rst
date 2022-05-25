@@ -7,4 +7,4 @@ Contents
 .. toctree::
 
    
-   实验二：使用蓝图重构PhotoString
+   实验二：使用蓝图重构图库软件
