@@ -7,4 +7,4 @@ Contents
 .. toctree::
 
    
-   实验一：依赖分析和依赖图
+   实验二：使用蓝图重构PhotoString
